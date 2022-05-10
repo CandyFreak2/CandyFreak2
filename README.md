@@ -9,15 +9,13 @@ I am a 18 year old developer and I've been coding since 2018.
   *  📗 C#: Self Taught C# user to learn and understand Unity to start working on game development 
   *  📙 HTML: Took a Web Design class in grade 9. Now teaching myself HTML for custom website
   *  📕 CSS: Self Taught for custom webiste
-  *  📒 C++: Self Taught for UE4 (Unreal Engine 4) 
+  *  📒 C++: Self Taught for UE4 & 5 (Unreal Engine) 
 
 
 ## My Projects
 
   * 🦸 Heroes United - Marvel: A Minecraft mod I created off of Marvel Comics characters using 1.16.5+ Forge
   * 📄 Heroes United - Unoffical Mods Wiki: A website currently under development for all 3 Unoffical HU mods
-  * 🏫 College-Website: The website developed by me for college applications 
-  * 🎮 Unnamed Game - A game currently in development in Unity
 
 
 ## Contact Me
