@@ -14,7 +14,7 @@ I am a 19 year old developer and I've been coding since 2018.
 
 ## My Projects
 
-  * 🦸 [Nameless Heroes](https://www.planetminecraft.com/mod/nameless-heroes-heropack-fiskheroes-2-0-1-7-10-minecraft-mod-first-release/): A heropack for Fiskheroes's Superhero Mod in Minecraft 1.7.10
+  * 🦸 [Nameless Heroes](https://www.curseforge.com/minecraft/customization/nameless-heroes): A heropack for Fiskheroes's Superhero Mod in Minecraft 1.7.10
 
 
 ## Contact Me
