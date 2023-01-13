@@ -21,9 +21,3 @@ I am a 19 year old developer and I've been coding since 2018.
 ## Contact Me
 
   * Discord: CandyFreak2#0001
-
-
-## Github Stats
-
-
-[![CandyFreak2's Github Stats](https://github-readme-stats.vercel.app/api?username=CandyFreak2&theme=dracula)](https://github.com/CandyFreak2/github-readme-stats)
