@@ -9,7 +9,7 @@ I am a 19 year old developer and I've been coding since 2018.
   *  📗 C#: Self Taught C# user to learn and understand Unity to start working on game development 
   *  📙 HTML: Took a Web Design class in grade 9. Now teaching myself HTML for custom website
   *  📕 CSS: Self Taught for custom webiste
-  *  📒 C++: Self Taught for UE4 & 5 (Unreal Engine) 
+  *  📒 C++: College Level Education, two semesters worth of learning. 
 
 
 ## My Projects
