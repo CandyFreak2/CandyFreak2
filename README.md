@@ -5,7 +5,7 @@ I am a 19 year old developer and I've been coding since 2018.
 
 ## Learning/Known Coding Languages
 
-  *  📘 Java: Been coding since the beginning, have dabbled in Minecraft Modding / 4+ Years of School Taught Java 
+  *  📘 Java: Been coding since the beginning, have dabbled in Minecraft Modding / 5+ Years of School Taught Java 
   *  📗 C#: Self Taught C# user to learn and understand Unity to start working on game development 
   *  📙 HTML: Took a Web Design class in grade 9. Now teaching myself HTML for custom website
   *  📕 CSS: Self Taught for custom webiste
