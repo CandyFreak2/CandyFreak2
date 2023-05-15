@@ -1,5 +1,3 @@
-Hi! My name is Jerry, also known as CandyFreak2. 
-
 I am a 19 year old developer and I've been coding since 2018.
 
 
