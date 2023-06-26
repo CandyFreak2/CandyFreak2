@@ -3,11 +3,11 @@ I am a 19 year old developer and I've been coding since 2018.
 
 ## Learning/Known Coding Languages
 
-  *  📘 Java: Been coding since the beginning, have dabbled in Minecraft Modding / 5+ Years of School Taught Java 
+  *  📘 Java: Been coding since the beginning, have dabbled in Minecraft Modding / 6 Years of Java Experience
   *  📗 C#: Self Taught C# user to learn and understand Unity to start working on game development 
-  *  📙 HTML: Took a Web Design class in grade 9. Now teaching myself HTML for custom website
+  *  📙 HTML: Took a Web Design class in grade 9. Continued it outside of school
   *  📕 CSS: Self Taught for custom webiste
-  *  📒 C++: College Level Education, two semesters worth of learning. 
+  *  📒 C++: College Level Education
 
 
 ## My Projects
@@ -18,4 +18,4 @@ I am a 19 year old developer and I've been coding since 2018.
 
 ## Contact Me
 
-  * Discord: CandyFreak2#0001
+  * Discord: CandyFreak2
