@@ -13,6 +13,7 @@ I am a 19 year old developer and I've been coding since 2018.
 ## My Projects
 
   * 🦸 [Nameless Heroes](https://www.curseforge.com/minecraft/customization/nameless-heroes): A heropack for Fiskheroes's Superhero Mod in Minecraft 1.7.10
+  * 🍾 [Nuka-Isles](https://legacy.curseforge.com/minecraft/mc-mods/nuka-isles): 1.19.4 Minecraft Mod based on Bethesda's Fallout games
   * 🚗 Traveling Ashes: First Video Game, WIP
 
 
