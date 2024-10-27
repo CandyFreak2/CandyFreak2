@@ -1,22 +1,24 @@
-I am a 19 year old developer and I've been coding since 2018.
+Hi there! 👋
 
+My name is Jerry, and I am an aspiring game developer. I am a junior in college studying game programming with a minor in mathematics. 
 
 ## Learning/Known Coding Languages
-
-  *  📘 Java: Been coding since the beginning, have dabbled in Minecraft Modding / 6 Years of Java Experience
-  *  📗 C#: Self Taught C# user to learn and understand Unity to start working on game development 
-  *  📙 HTML: Took a Web Design class in grade 9. Continued it outside of school
-  *  📕 CSS: Self Taught for custom webiste
   *  📒 C++: College Level Education
+  *  📗 C#: Self Taught, Expanded upon with college education, three years of experience
+  *  📘 Java: High School Level Education with roughly seven years of experience
+  *  📙 HTML: High School Education + Self Taught 
+  *  📕 CSS: High School Education + Self Taught
 
 
-## My Projects
-
-  * 🦸 [Nameless Heroes](https://www.curseforge.com/minecraft/customization/nameless-heroes): A heropack for Fiskheroes's Superhero Mod in Minecraft 1.7.10
-  * 🍾 [Nuka-Isles](https://legacy.curseforge.com/minecraft/mc-mods/nuka-isles): 1.19.4 Minecraft Mod based on Bethesda's Fallout games
-  * 🚗 Traveling Ashes: First Video Game, WIP
+## My Projects/Finished Products
+  * 🦸 [Nameless Heroes](https://www.curseforge.com/minecraft/customization/nameless-heroes): Heropack for Fisk Superhero Mod, 400k+ downloads in 26 months
+  * 💻 Geronimo: Java Application to help program commercial air conditioning units using thumb drives
+  * 🟢 Goop Be Free: 2D Horror Platformer made within Unity, was the sole developer on the project 
+  * 🚧 Pros and Construction: 2D Platformer made within Unity, acted as main developer and tools engineer 
+  * 🍾 [Nuka-Isles](https://legacy.curseforge.com/minecraft/mc-mods/nuka-isles): 1.19.4 Minecraft Mod based on Bethesda's Fallout games 
 
 
 ## Contact Me
 
   * Discord: CandyFreak2
+ 
